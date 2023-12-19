@@ -11,3 +11,4 @@ while getopts ":f:" option; do
       python app.py --share 
       ;;
   esac
+done
